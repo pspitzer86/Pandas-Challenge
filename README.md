@@ -1,1 +1,4 @@
 # Pandas-Challenge
+
+The purpose of this assignment was to analysis purchasing data for popular game HeroesofPymoli.  By reorganizing the data in several different ways, we can determine various trends in the actions of the players based on the gender of players, age of the players, and the kinds of items and amount of items brought by the players.  The assignment focused on the use of Pandas dataframes, methods such as mean and sum, groupbys, cutting and sorting data, and binning.  The code created was used to show output dataframes for the Total Number of Players, the overall Purchasing Analysis, the Gender Demographic, the Purchasing Analysis based on Gender, the Age Demographic, the Purchasing Analysis based on Age, the Top Spenders, the Most Popular Items, and the Most Profitable Items.
+
